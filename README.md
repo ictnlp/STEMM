@@ -1,6 +1,6 @@
-# STMM: Self-learning with **S**peech-**T**ext **M**anifold **M**ixup for Speech Translation
+# STEMM: Self-learning with **S**peech-**T**ext **M**anifold **M**ixup for Speech Translation
 
-This is a PyTorch implementation for the paper *STMM: Self-learning with Speech-text Manifold Mixup for Speech Translation*.
+This is a PyTorch implementation for the ACL 2022 main conference paper *STEMM: Self-learning with Speech-text Manifold Mixup for Speech Translation*.
 
 ## Training a Model on MuST-C
 
@@ -12,7 +12,7 @@ Let's first take a look at training an En-De model as an example.
 
 ```shell
 git clone ...
-cd STMM/
+cd STEMM/
 ```
 
 2. Install Montreal Forced Aligner following the [official guidance](https://montreal-forced-aligner.readthedocs.io/en/v1.0/installation.html). Please also download the pertained models and dictionary for MFA.
@@ -148,8 +148,8 @@ sh test.sh mustc_en${TGT_LANG}_stmm_self_learning $TGT_LANG
 In this repository is useful for you, please cite as:
 
 ```
-@inproceedings{STMM,
-	title = {STMM: Self-learning with Speech-text Manifold Mixup for Speech Translation},
+@inproceedings{STEMM,
+	title = {STEMM: Self-learning with Speech-text Manifold Mixup for Speech Translation},
 	author = {Fang, Qingkai and Ye, Rong and Li, Lei and Feng, Yang and Wang, Mingxuan},
 	booktitle = {Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics},
 	year = {2022},
