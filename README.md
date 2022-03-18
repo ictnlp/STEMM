@@ -11,7 +11,7 @@ Let's first take a look at training an En-De model as an example.
 1. Clone this repository:
 
 ```shell
-git clone ...
+git clone git@github.com:ictnlp/STEMM.git
 cd STEMM/
 ```
 
