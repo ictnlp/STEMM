@@ -148,7 +148,7 @@ sh test.sh mustc_en${TGT_LANG}_stmm_self_learning $TGT_LANG
 In this repository is useful for you, please cite as:
 
 ```
-@inproceedings{STEMM,
+@inproceedings{fang-etal-2022-STEMM,
 	title = {STEMM: Self-learning with Speech-text Manifold Mixup for Speech Translation},
 	author = {Fang, Qingkai and Ye, Rong and Li, Lei and Feng, Yang and Wang, Mingxuan},
 	booktitle = {Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics},
