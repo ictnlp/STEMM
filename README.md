@@ -1,6 +1,6 @@
 # STEMM: Self-learning with **S**peech-**T**ext **M**anifold **M**ixup for Speech Translation
 
-This is a PyTorch implementation for the ACL 2022 main conference paper *STEMM: Self-learning with Speech-text Manifold Mixup for Speech Translation*.
+This is a PyTorch implementation for the ACL 2022 main conference paper [STEMM: Self-learning with Speech-text Manifold Mixup for Speech Translation](https://arxiv.org/abs/2203.10426).
 
 ## Training a Model on MuST-C
 
