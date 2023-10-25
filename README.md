@@ -145,7 +145,7 @@ sh test.sh mustc_en${TGT_LANG}_stmm_self_learning $TGT_LANG
 | En-Pt     |  https://lf3-nlp-opensource.bytetos.com/obj/nlp-opensource/acl2022/stmm/mustc_enpt_stmm_self_learning.pt    |
 
 ## Citation
-In this repository is useful for you, please cite as:
+If this repository is useful for you, please cite as:
 
 ```
 @inproceedings{fang-etal-2022-STEMM,
